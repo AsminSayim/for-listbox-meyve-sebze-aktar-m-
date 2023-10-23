@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\bin\Debug\for-listbox-meyve-sebze-aktarma.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\bin\Debug\for-listbox-meyve-sebze-aktarma.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\bin\Debug\for-listbox-meyve-sebze-aktarma.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\obj\Debug\for-listbox-meyve-sebze-aktarma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\obj\Debug\for-listbox-meyve-sebze-aktarma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\obj\Debug\for_listbox_meyve_sebze_aktarma.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\obj\Debug\for_listbox_meyve_sebze_aktarma.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\obj\Debug\for-listbox-meyve-sebze-aktarma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\obj\Debug\for-listbox-meyve-sebze-aktarma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\obj\Debug\for-listbox-meyve-sebze-aktarma.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-listbox-meyve-sebze-aktarma\for-listbox-meyve-sebze-aktarma\obj\Debug\for-listbox-meyve-sebze-aktarma.pdb
